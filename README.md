@@ -1,4 +1,4 @@
-1.	College Database Management 
+# College Database Management 
 
 Overview – This project involves working with a college database containing details of students, professors, enrolments, departments, and courses. SQL queries were used to extract data based on specific requirements, along with the creation of stored procedures, triggers, and events to enhance database functionality.
 
